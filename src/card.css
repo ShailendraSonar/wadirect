@@ -122,3 +122,10 @@
   .btn_card:hover{
     background: rgb(38, 190, 38);
   }
+
+
+
+  .down{
+    position: absolute;
+    bottom: 20px;
+  }
